@@ -6,7 +6,7 @@ It is *https://www.semanticscholar.org/* article parser
 ***
 NOTICE, that it is **linux-compatible** script version. To run on Windows-platform you should download proper chromedriver for your platform.
 ***
-### The */conf.py* is used to configure robot
+### */conf.py* Description
 * *QUERY* - Searching article theme
 * *NPAGE* - page number
 * *RECEIVER* - Receiver password
