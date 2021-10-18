@@ -4,8 +4,7 @@ Link to the Video: *https://youtu.be/DjvsO0UKFf8*
 ***
 It is *https://www.semanticscholar.org/* article parser
 ***
-***
-NOTICE, that it is linux-compatible script version. To run on Windows-platform you should download proper chromedriver for your platform.
+NOTICE, that it is **linux-compatible** script version. To run on Windows-platform you should download proper chromedriver for your platform.
 ***
 ### The */conf.py* is used to configure robot
 * *QUERY* - Searching article theme
